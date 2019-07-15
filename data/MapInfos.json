@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"expanded":false,"name":"port","order":5,"parentId":0,"scrollX":772,"scrollY":474},
+{"id":2,"expanded":false,"name":"town","order":1,"parentId":0,"scrollX":761.3333333333334,"scrollY":582},
+{"id":3,"expanded":false,"name":"inn hallway","order":2,"parentId":0,"scrollX":772,"scrollY":474},
+{"id":4,"expanded":false,"name":"INN LOBBY","order":7,"parentId":0,"scrollX":772,"scrollY":474},
+{"id":5,"expanded":false,"name":"hotel room","order":3,"parentId":0,"scrollX":1158,"scrollY":711},
+{"id":6,"expanded":false,"name":"forest","order":4,"parentId":0,"scrollX":870.6666666666666,"scrollY":711.3333333333334},
+{"id":7,"expanded":false,"name":"maconga","order":9,"parentId":0,"scrollX":761.3333333333334,"scrollY":510},
+{"id":8,"expanded":false,"name":"inside ship","order":6,"parentId":0,"scrollX":1142.6666666666667,"scrollY":776.6666666666666},
+{"id":9,"expanded":false,"name":"ship2","order":8,"parentId":0,"scrollX":1142.6666666666667,"scrollY":776.6666666666666},
+{"id":10,"expanded":false,"name":"downstairs maconga","order":10,"parentId":0,"scrollX":772,"scrollY":474}
+]

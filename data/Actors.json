@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"new","characterIndex":0,"characterName":"new","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"corson","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"babies_by_ptimiya","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"baby","traits":[],"initialLevel":1,"maxLevel":99,"name":"Baby","nickname":"","note":"","profile":""}
+]
